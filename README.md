@@ -1,6 +1,7 @@
 # Apache-Spark
 
-1  Project 1: Airline Flight
+1  Project 1: Airline Flight \n
+
 2  Data cleaning:
 2.1  Indexing: Categorical data to numerical
 2.2  Assembling columns
